@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Connect/Contact With Me:
-<p align="center">
+<p align="left">
 <a href="mailto:sagarkumarjob1997@gmail.com">
     <img align="center" alt="Sagar Kumar @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
