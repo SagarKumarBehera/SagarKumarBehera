@@ -35,14 +35,9 @@
 
 ## 🌐 Connect/Contact With Me:
 <p align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sagarkumarjob1997@gmail.com" target="_blank">
-  <img 
-    align="center" 
-    alt="Sagar Kumar | Gmail" 
-    width="50px" 
-    src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" 
-  />
-</a>
+<a href="mailto:sagarkumarjob1997@gmail.com">
+    <img align="center" alt="Sagar Kumar @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
+  </a>
 <a href="https://linkedin.com/in/sagar kumar behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar kumar behera" height="30" width="40" /></a>
 <a href="https://sagar-kumar-behera-github-io.vercel.app/">
     <img align="center" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/web-designer-portfolio-958733.png" alt="Sagar Portfolio" width="50px">&nbsp;
