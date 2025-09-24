@@ -3,8 +3,7 @@
 
 <!-- Title -->
 <h1 align="center">Hello 👋, I'm Sagar Kumar Behera</h1>
-<h3 align="center">I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
-I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.</h3>
+<h3 align="center">I am an enthusiastic Full-Stack Web Developer in the making, currently enrolled in a 30-week intensive web development program at Masai School, Bengaluru. I have a strong passion for exploring and mastering new concepts within the MERN stack. My goal is to contribute to an organization where I can apply my knowledge and skills effectively, while also growing professionally and adding value to the team’s success.</h3>
 
 ---
 
