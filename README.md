@@ -9,8 +9,15 @@
 
 ## 💫 About Me
 <img align="right" alt="Coding" width="350px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-👨‍💻 Full-stack web developer<br>- 🌱 I’m currently learning stuff to be a **Full-Stack Web Developer**<br>- 🌐 Deep understanding of front-end and back-end development<br>- 💡 Passionate about crafting dynamic, user-friendly websites<br>- 🔧 Strong coding skills and knowledge of the latest programming trends<br>- 🌟 Confident in taking on any web development project and exceeding expectations<br>- 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**<br>- 📄 Know about my experiences [https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing]<br>- 📫 How to reach me **sagarkumarjob1997@gmail.com**
 
+- 🌱 I’m currently learning stuff to be a **Full-Stack Web Developer**
+- 🌐 Deep understanding of front-end and back-end development
+- 💡 Passionate about crafting dynamic, user-friendly websites
+- 🔧 Strong coding skills and knowledge of the latest programming trends
+- 🌟 Confident in taking on any web development project and exceeding expectations
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing]
+- 📫 How to reach me **sagarkumarjob1997@gmail.com**
 
 ---
 
