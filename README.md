@@ -4,12 +4,6 @@
 <!-- Title -->
 <h1 align="center">Hello 👋, I'm Sagar Kumar Behera</h1>
 <h3 align="center">I am an enthusiastic Full-Stack Web Developer in the making, currently enrolled in a 30-week intensive web development program at Masai School, Bengaluru. I have a strong passion for exploring and mastering new concepts within the MERN stack. My goal is to contribute to an organization where I can apply my knowledge and skills effectively, while also growing professionally and adding value to the team’s success.</h3>
-
----
-
-## 💫 About Me
-<img align="right" alt="Coding" width="350px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🌱 I’m currently learning stuff to be a **Full-Stack Web Developer**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**
 - 📫 How to reach me **sagarkumarjob1997@gmail.com**
@@ -17,7 +11,14 @@
 
 ---
 
-## 🛠 Tech Stack
+## 💫 About Me
+<img align="right" alt="Coding" width="350px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+👨‍💻 Full-stack web developer<br>- 🚀 Focused on mastering Node.js and MongoDB<br>- 🌐 Deep understanding of front-end and back-end development<br>- 💡 Passionate about crafting dynamic, user-friendly websites<br>- 🔧 Strong coding skills and knowledge of the latest programming trends<br>- 🌟 Confident in taking on any web development project and exceeding expectations
+
+
+---
+
+## 💻 Tech Stack
 <p align="left">
   <div align="left">
 
