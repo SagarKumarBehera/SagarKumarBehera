@@ -4,17 +4,15 @@
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumarbehera&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumarbehera" /> </p>
-
 - 🌱 I’m currently learning stuff to be a **Full-Stack Web Developer**
 
-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**
 
 - 📫 How to reach me **sagarkumarjob1997@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing](https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing)
 
-<h3 align="left">Languages and Tool / Tech Stacks:</h3>
+<h3 align="center">Languages and Tool / Tech Stacks:</h3>
 <p align="center">
   <div align="center">
   
@@ -24,8 +22,8 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
    
 </p>
 
-<h3 align="left">Connect/Contact with me:</h3>
-<p align="left">
+<h3 align="center">Connect/Contact with me:</h3>
+<p align="center">
 <a href="mailto:sagarkumarjob1997@gmail.com">
     <img align="center" alt="Sagar Kumar @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
