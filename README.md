@@ -35,10 +35,10 @@
 
 ## 🌐 Connect/Contact With Me:
 <p align="left">
-<a href="mailto:sagarkumarjob1997@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sagarkumarjob1997@gmail.com" target="_blank">
   <img 
     align="center" 
-    alt="Sagar Kumar | Email" 
+    alt="Sagar Kumar | Gmail" 
     width="50px" 
     src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" 
   />
