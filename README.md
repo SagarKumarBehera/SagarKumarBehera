@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Sagar Kumar Behera</h1>
 <h3 align="center">I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning stuff to be a **Full-Stack Web Developer**
 
@@ -12,9 +12,9 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing](https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing)
 
+<h3 align="left">Languages and Tool / Tech Stacks:</h3>
 <p align="left">
   <div align="left">
-<h3 align="left">Languages and Tool / Tech Stacks:</h3>
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,netlify,vscode)](https://skillicons.dev)
    
