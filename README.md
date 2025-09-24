@@ -12,9 +12,9 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing](https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing)
 
-<h3 align="left">Languages and Tool / Tech Stacks:</h3>
 <p align="left">
   <div align="left">
+<h3 align="left">Languages and Tool / Tech Stacks:</h3>
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,netlify,vscode)](https://skillicons.dev)
    
