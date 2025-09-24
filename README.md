@@ -4,6 +4,11 @@
 I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
+
+
+
 - 🌱 I’m currently learning stuff to be a **Full-Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**
@@ -15,9 +20,7 @@ I am very much keen in learning new things in MERN Stack, I am Interested to ser
 <h3 align="left">Languages and Tool / Tech Stacks:</h3>
 <p align="left">
   <div align="left">
-  
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,netlify,vscode)](https://skillicons.dev)
-   
    </div>
    
 </p>
