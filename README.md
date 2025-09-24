@@ -47,7 +47,7 @@
     <img align="center" alt="Sagar_Kumar @ Resume" width="45px" src="https://cdn1.iconfinder.com/data/icons/development-3/91/SEODevelopment__Marketing_114-128.png" />&nbsp;
   </a>
 <a href="https://www.facebook.com/sagarkumar.behera.731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar kumar behera" height="30" width="40" /></a>
-<a href="https://instagram.com/sagar kumar behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar kumar behera" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kumarsagarbehera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar kumar behera" height="30" width="40" /></a>
 </p>
 
 ---
