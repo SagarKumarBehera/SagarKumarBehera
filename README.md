@@ -16,7 +16,7 @@
 - 🔧 Strong coding skills and knowledge of the latest programming trends
 - 🌟 Confident in taking on any web development project and exceeding expectations
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sagar-kumar-behera-github-io.vercel.app/)**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-9CWG--Il53xhItf1NewcgsL4UuLzsDN/view]
 - 📫 How to reach me **sagarkumarjob1997@gmail.com**
 
 ---
@@ -43,7 +43,7 @@
   <a href="https://github.com/SagarKumarBehera" >
     <img align="center" alt="Sagar Kumar Behera @ Github" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-128.png" />&nbsp;
   </a>
-  <a href="https://drive.google.com/file/d/1KaZnf3_8pWR5VaH7DseZaSBoOxi8xNmN/view?usp=drive_link" >
+  <a href="https://drive.google.com/file/d/1-9CWG--Il53xhItf1NewcgsL4UuLzsDN/view" >
     <img align="center" alt="Sagar_Kumar @ Resume" width="45px" src="https://cdn1.iconfinder.com/data/icons/development-3/91/SEODevelopment__Marketing_114-128.png" />&nbsp;
   </a>
 <a href="https://www.facebook.com/sagarkumar.behera.731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar kumar behera" height="30" width="40" /></a>
